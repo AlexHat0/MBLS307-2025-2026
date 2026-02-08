@@ -13,6 +13,11 @@ https://gist.github.com/Z3tt/3dab3535007acf108391649766409421
 
 https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
+- How to resolve a merge conflict
+
+https://www.youtube.com/watch?v=C_6LiLfyAh8
+
+  
 # Assignment 1 README
 This repository contains code for the GWAS assignment in the course Omics for the Life Sciences 2025-2026. It is based on the publication Dijkhuizen et al., 2024:
 - https://doi.org/10.1111/tpj.70405
